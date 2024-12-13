@@ -24,7 +24,7 @@ Significance and Conclusion
 Here are the links to the files - 
 
 
-Finale_presentation_allgroup - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20finale%20Presentation_allgroup.pptx
+Slides - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20finale%20Presentation_allgroup.pptx
 
 Code (R Markdown): <br> 
 Data Pre-processing - AIM-AHEAD Project 00 Data Processing WG_CB updated.html
