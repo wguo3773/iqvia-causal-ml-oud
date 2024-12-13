@@ -10,7 +10,6 @@ Current strategies to predict Buprenorphine treatment discontinuation often fail
 Implementing a two-stage virtual twins model allows for the identification of subgroups particularly vulnerable to disparities in discontinuation, enabling tailored interventions to improve treatment retention.
 
 
-Virtual Twins Model Study Design 
 ![image](https://github.com/user-attachments/assets/89c45d18-f6a2-4880-b2e8-9153db0771f4)
 
 
@@ -27,11 +26,12 @@ Here are the links to the files -
 
 Finale_presentation_allgroup - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/WGUO%20finale%20Presentation_allgroup.pptx
 
+Code (R Markdown): 
 Data Pre-processing - AIM-AHEAD Project 00 Data Processing WG_CB updated.html
 
 Virtual Twins ML subgroup Analysis - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html
 
- 
+
 
 
 
