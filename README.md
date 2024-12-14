@@ -22,7 +22,7 @@ Significance and Conclusion
 
 Here are the links to the files - <br> 
 Slides - https://github.com/wguo3773/wguo3773.github.io/blob/main/assets/publications/Wnaru%20Guo%20HACASA%202025%20copy.pptx <br> 
-Code - 
+Poster - 
 
 Code (R Markdown): <br> 
 1. Data Pre-processing - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM-AHEAD%20Project%2000%20Data%20Processing%20WG_CB%20updated.html 
