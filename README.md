@@ -27,7 +27,7 @@ Code (R Markdown): <br>
 1. Data Pre-processing - 
 2. Exploratory Data Analysis - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM-AHEAD%2002%20EDA%20CB_WG%20updated.nb.html
 3. Identifying Buprenorphine treatment episodes - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM-AHEAD%20-%20Tx_Episodes_Analysis%20.html
-4. Cox Proportional Hazards Model for modelling treatment discontinuation - 
+4. Cox Proportional Hazards Model for modelling treatment discontinuation - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM-AHEAD%20-%20Cox_PH.html 
 5. Virtual Twins ML subgroup Analysis for treatment discontinuation - https://github.com/wguo3773/iqvia-causal-ml-oud/blob/main/AIM%20AHEAD%20Virtual%20Twins%20WG.html
 
 
